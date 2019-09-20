@@ -1,0 +1,8 @@
+package jo.co.internous.action;
+
+public class Main {
+
+	public static void main(String[] args){
+		System.out.println("Heloo World");
+	}
+}
