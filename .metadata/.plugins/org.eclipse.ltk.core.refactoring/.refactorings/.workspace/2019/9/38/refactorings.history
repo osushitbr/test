@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="リソース &apos;sample&apos; を削除" deleteContents="false" description="リソース &apos;sample&apos; を削除" element1="/sample" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1568943415653"/>&#x0A;<refactoring comment="リソース &apos;Rensyu&apos; を削除" deleteContents="false" description="リソース &apos;Rensyu&apos; を削除" element1="/Rensyu" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1568947739404"/>
-</session>
