@@ -27,7 +27,7 @@ public class MapSample {
 		System.out.println("Key1は存在しません");
 	}
 
-	for(Map.Entry<String.String> e : map.entrySet()){
+	for(Map.Entry<String,String> e : map.entrySet()){
 		System.out.println(e.getKey()+ ":" +
 	e.getValue());}
 	}
